@@ -7,6 +7,10 @@ Created for uppsala university's student who registered the course Introduction 
 *mindmap.pdf*: An mindmap including the knowledge structures from each chapter which are organically combined.
 
 ## Updated LOG
+2025.02.03
++ Referencable answers for previous exam are added;
++ Good luck!
+
 2025.01.16
 + Revised errors in Markov chain's stationary distribution,double-checked correctness for each methods;
 + Restrcutured the Accept-reject sampler function, making it more robust and clear. Sample checking part is added to verify while still failed making it more efficiency. hint: M is a key to generate correct distribution. That is to say that you can improve the efficiency literally by reducing M but you will lose the accuracy. So hold the baseline for M.
